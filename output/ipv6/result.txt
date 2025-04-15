@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-15 06:35:16,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+2025-04-15 18:36:40,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -381,6 +381,7 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive$订�
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
