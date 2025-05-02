@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-02 07:09:24,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-订阅源
+2025-05-02 19:08:15,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-订阅源
@@ -334,6 +334,8 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8$订阅源
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193$订阅源
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$订阅源
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
 
 🎥咪咕直播,#genre#
 咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$订阅源-订阅源
@@ -396,6 +398,7 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive$订�
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源-订阅源
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186$订阅源
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源-订阅源
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000$订阅源-订阅源
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?$订阅源
